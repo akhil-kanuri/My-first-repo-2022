@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ch1notes
+comment0.text=\r\n\ Akhil\ Kanuri\r\n\ 8/23/22\r\n\ Chapter\ 1\ notes\r\n\ Class\ notes\ on\ basic\ concepts\r\n\ who\ helped\ me\:\ Names\r\n
+comment1.params=
+comment1.target=Ch1notes()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ch1notes\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ This\ is\ our\ code\ notes\r\n
+numComments=3
